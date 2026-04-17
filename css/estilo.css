@@ -37,7 +37,9 @@ color: antiquewhite;
 display: inline-block;
 background-color: #63d87e;
 color: #1a241a;
-padding: 1opx 20px;
+padding: 12px 24px;
 border-radius: 10px;
-margin-top: 15px;
+margin-top: 20px;
+text-decoration: none;
+font-weight: bold;
 }

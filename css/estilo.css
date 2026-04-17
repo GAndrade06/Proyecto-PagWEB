@@ -1,3 +1,12 @@
+body{
+ background-color: #121a12;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+margin: auto;
+font-family: sans-serif;
+}
 h1{
 
     color: aquamarine;
@@ -17,9 +26,18 @@ flex-direction: column;
 
     justify-content: center;
     align-content: center;
-    background: #333;
+    background-color: #2d3a2d;
 background-repeat: no-repeat;
 background-position: center;
 margin: auto;
 color: antiquewhite;
+}
+.boton-redireccion {
+
+display: inline-block;
+background-color: #63d87e;
+color: #1a241a;
+padding: 1opx 20px;
+border-radius: 10px;
+margin-top: 15px;
 }

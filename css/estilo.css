@@ -1,0 +1,35 @@
+body {
+    background: #1a2a1d; /* Verde oscuro elegante */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: sans-serif;
+    color: white;
+}
+
+.contenedor {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+img {
+    border-radius: 15px;
+    max-width: 100%;
+}
+
+.boton-redireccion {
+    display: inline-block;
+    background: #78e08f;
+    color: #1a2a1d;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 15px;
+}

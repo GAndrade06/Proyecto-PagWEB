@@ -17,7 +17,9 @@ flex-direction: column;
 
     justify-content: center;
     align-content: center;
+    background: #333;
 background-repeat: no-repeat;
 background-position: center;
 margin: auto;
+color: antiquewhite;
 }
